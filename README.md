@@ -1,6 +1,8 @@
 # voila
 
-## jupyter nbextension list
+### pip install voila
+
+### jupyter nbextension list
 
 ### jupyter serverextension enable voila --sys-prefix
 
